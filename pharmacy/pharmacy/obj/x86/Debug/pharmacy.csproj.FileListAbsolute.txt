@@ -1,0 +1,13 @@
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\bin\Debug\pharmacy.pdb
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.Form1.resources
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.Form2.resources
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.Properties.Resources.resources
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.csproj.GenerateResource.Cache
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.exe
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.pdb
+F:\Fci Assuit\second year\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.csprojResolveAssemblyReference.cache
+F:\Fci Assuit\second year\Frist Term\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.exe
+F:\Fci Assuit\second year\Frist Term\C#\my work\pharmacy\pharmacy\obj\x86\Debug\pharmacy.pdb
+F:\pharmacy project\pharmacy\pharmacy\obj\x86\Debug\pharmacy.exe
+F:\pharmacy project\pharmacy\pharmacy\obj\x86\Debug\pharmacy.pdb
